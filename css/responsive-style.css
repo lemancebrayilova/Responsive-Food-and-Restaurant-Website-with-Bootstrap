@@ -49,6 +49,10 @@
     }
 
     /* story section */
+    .story-section {
+        height: auto;
+        padding: 3rem 0;
+    }
 
     /* carousel design */
 
