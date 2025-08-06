@@ -29,6 +29,9 @@
     }
 
     /* coursel design */
+    .testimonial-section .carousel-item .carousel-caption p {
+        padding: 0;
+    }
 
 }
 
@@ -55,6 +58,9 @@
     }
 
     /* carousel design */
+    .testimonial-section .carousel-item {
+        padding: 11rem 3.125rem;
+    }
 
     /* newsletter */
 
@@ -65,5 +71,8 @@
 @media (max-width: 330px) {
 
     /* carousel design */
+    .testimonial-section .carousel-item {
+        padding: 13rem 3.125rem;
+    }
 
 }
